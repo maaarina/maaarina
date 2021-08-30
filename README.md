@@ -14,7 +14,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="M-Me" src="![Webp net-gifmaker](https://user-images.githubusercontent.com/89812911/131417535-c542e77e-24b8-4453-a731-ab6abf5dfaf1.gif)">
 </div>
-  
+ 
+  ##
+ 
   <div> 
   <a href="https://instagram.com/maaarina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marina.gabri3lly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
