@@ -4,15 +4,16 @@
   <a href="https://github.com/maaarina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaarina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaarina&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120emt" align="left" alt="M" src="https://cdn.discordapp.com/attachments/780734437314789396/882039536018944010/Webp.net-gifmaker.gif">
 </div>
   
   ## 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="M-Me" src="![Webp net-gifmaker](https://user-images.githubusercontent.com/89812911/131417535-c542e77e-24b8-4453-a731-ab6abf5dfaf1.gif)">
+  <img align="center" alt="M-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="M-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
 </div>
  
   ##
