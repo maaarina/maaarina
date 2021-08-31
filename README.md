@@ -3,10 +3,10 @@
  <div>
   <a href="https://github.com/maaarina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maaarina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img left="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaarina&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaarina&layout=compact&langs_count=7&theme=dracula"/>
   <img height="100em" align="left" alt="M" src="https://cdn.discordapp.com/attachments/780734437314789396/882039536018944010/Webp.net-gifmaker.gif">
 </div>
-  
+ 
   ## 
   
 <div style="display: inline_block"><br>
