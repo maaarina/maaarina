@@ -1,15 +1,19 @@
-<img style="margin-top: 24px" 
- src="https://github-readme-stats.vercel.app/api/top-langs?username=maaarina&show_icons=true&theme=aura&linclude_all_commits=true&layout=compact&card_width=445" 
- alt="maaarina" />
+### Olá, sou Marina Gabrielly! 👋
 
-<img style="margin-top: 24px" src="https://github-readme-stats.vercel.app/api?username=maaarina&show_icons=true&theme=aura&locale=pt-br&border_radius=0" alt="maaarina" />
+- 🎓 Estudante de Ciência da Computação, apaixonada por tecnologia e inovação.
+- 🌟 Atualmente, estou mergulhando no mundo do <strong> desenvolvimento mobile com Kotlin </strong>, graças à bolsa de estudos do Bootcamp Santander 2023.
+- 💻 Também estou explorando o universo do JavaScript.
+- 🚀 Meu objetivo de carreira é me especializar na área de <strong>front-end</strong>, criando interfaces atraentes para web e dispositivos móveis.
+- 🌐 Em breve, você encontrará aqui meu repositório com projetos destacados.
+- 🏆 Recentemente, fui selecionada para o Bootcamp Santander 2023, onde enfrento desafios de código e continuo aprendendo.
+- ♿ Tenho um forte desejo de contribuir para projetos que tornem a informação acessível a todos, melhorando a experiência do usuário.
 
-<div style="display: inline_block"> 
-<br>
-  <img align="center" alt="M-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="M-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="M-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- 
- 
+Vamos construir juntos um futuro digital mais inclusivo e empolgante! 🌈
+<br> <br> <br>
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maaarina&theme=aura" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaarina&layout=compact&theme=aura&langs_count=8&card_width=320" />
+</a>
