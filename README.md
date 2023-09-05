@@ -15,5 +15,5 @@ Vamos construir juntos um futuro digital mais inclusivo e empolgante! 🌈
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=maaarina&theme=aura" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaarina&layout=compact&theme=aura&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaarina&layout=compact&theme=aura&langs_count=8&card_width=320" />
 </a>
