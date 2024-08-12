@@ -1,10 +1,8 @@
 ### Olá, sou Marina Gabrielly! 👋
 
 - 🎓 Estudante de Ciência da Computação, apaixonada por tecnologia e inovação.
-- 🌟 Atualmente, estou mergulhando no mundo do <strong> desenvolvimento mobile com Kotlin </strong>, graças à bolsa de estudos do Bootcamp Santander 2023.
-- 💻 Também estou explorando o universo do JavaScript.
+- 💻 Estou explorando o universo do JavaScript.
 - 🚀 Meu objetivo de carreira é me especializar na área de <strong>front-end</strong>, criando interfaces atraentes para web e dispositivos móveis.
-- 🏆 Recentemente, fui selecionada para o Bootcamp Santander 2023, onde enfrento desafios de código e continuo aprendendo.
 - ♿ Tenho um forte desejo de contribuir para projetos que tornem a informação acessível a todos, melhorando a experiência do usuário.
 
 Vamos construir juntos um futuro digital mais inclusivo e empolgante! 🌈
